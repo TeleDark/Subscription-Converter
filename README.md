@@ -1,2 +1,2 @@
-# Subscription-Converter
-IRC Fragment for Your x-ui subscription
+# X-UI-IRCF-Integration
+IRCF Fragment for x-ui subscription
