@@ -1,5 +1,5 @@
 # XUI-IRCF-Integration
-## IRCF Fragment for x-ui subscription
+## IRCF Fragment for X-UI Subscription
 <hr>
 
 ## Step 1: Install Dependencies
