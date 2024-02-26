@@ -4,7 +4,7 @@
 ## setup
 1. Begin by updating the package list and installing Git, Python 3, and pip. Run the following command:
 ``` 
-sudo apt update && sudo apt install git python3 python3-pip
+sudo apt update && sudo apt install git python3 python3-pip -y
 ```
 2. Clone the XUI-IRCF-Integration repository to get the app:
 ```
