@@ -5,7 +5,7 @@
 ## Step 1: Install Dependencies
 Begin by updating the package list and installing necessary tools:
 ``` 
-sudo apt update && sudo apt install git unzip python3 python3-pip -y
+sudo apt update && sudo apt install git unzip cron python3 python3-pip -y
 ```
 ## Step 2: Clone the Repository
 Clone repository and navigate to the project directory:
