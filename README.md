@@ -1,20 +1,27 @@
 # XUI-IRCF-Integration
 ## IRCF Fragment for x-ui subscription
+<hr>
 
-## setup
-1. Begin by updating the package list and installing Git, Python 3, and pip. Run the following command:
+## Step 1: Install Dependencies
+Begin by updating the package list and installing necessary tools:
 ``` 
 sudo apt update && sudo apt install git python3 python3-pip -y
 ```
-2. Clone the XUI-IRCF-Integration repository to get the app:
+## Step 2: Clone the Repository
+Clone repository and navigate to the project directory:
 ```
-git clone https://github.com/TeleDark/XUI-IRCF-Integration.git
+git clone https://github.com/TeleDark/XUI-IRCF-Integration.git && cd XUI-IRCF-Integration/
 ```
-3. Open the main.py file using the Nano text editor to configure your domain and custom subport: 
+### Step 3: Configure Settings
+Open the main.py file using the Nano text editor to configure your domain and custom subport: 
 ```
 nano main.py
 ```
-4. Install the project dependencies using the following command:
+Make the required changes and save the file.
+
+
+## Step 4: Install Dependencies
+Install the project dependencies using the following command:
 ```
 pip install -r requirements.txt
 ```
